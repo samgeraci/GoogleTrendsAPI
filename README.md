@@ -1,5 +1,5 @@
 # GoogleTrendsAPI
-Proof of concept for google trends API use at Golden Oak Capital LLC
+Proof of concept for google trends API use
 
 Changing the search_term variable changes the Google Trends search term being looked up. (default value 'Apple Stock')
 
